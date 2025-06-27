@@ -16,4 +16,4 @@ Una vez clonado el proyecto desde GitHub, debe seguir los siguientes pasos:
 
 5. Una vez realizados todos los pasos anteriores deberá ejecutar el siguiente comando en la terminal: flutter run, esto hará que el proyecto se instale en el dispositivo conectado
 
-Nota: Si tiene el proyecto de backend clonado en su pc deberá verificar que el proyecto este actualizado, ejecutando este comando: git pull origin main en una terminal dentro de la ruta del proyecto del backend   
+Nota: Si tiene el proyecto de backend clonado en su pc deberá verificar que el proyecto este actualizado, ejecutando este comando: git pull origin main en una terminal dentro de la ruta del proyecto del backend. En caso de no tener el proyecto del backend descargado debera clonarlo utilizando el enlace proporcionado en el correo de la prueba 
